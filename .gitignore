@@ -1,3 +1,6 @@
+#Windows file
+Thumbs.db
+
 # Object files
 *.o
 *.ko
